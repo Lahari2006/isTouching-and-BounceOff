@@ -1,2 +1,2 @@
-# isTouching-and-BounceOff
-Syntax for isTouching and Bounceoff.
+# p5.play-boilerplate
+Boiler plate for p5.play
